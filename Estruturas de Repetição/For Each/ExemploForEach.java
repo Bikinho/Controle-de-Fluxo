@@ -1,0 +1,16 @@
+public class ExemploForEach {
+
+    public static void main(String[] args) {
+        
+
+
+        String alunos [] =  {"FELIPE","JONAS","JULIA","MARCOS"};
+	
+        //Forma abreviada
+	for(String alunos : alunos) {
+	  System.out.println(alunos);
+	}
+
+
+    }
+}
